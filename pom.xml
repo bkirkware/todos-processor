@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.todos</groupId>
-	<artifactId>todos-loggregator</artifactId>
+	<artifactId>todos-processor</artifactId>
 	<version>1.0.0.SNAP</version>
-	<name>todos-loggregator</name>
+	<name>todos-processor</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
